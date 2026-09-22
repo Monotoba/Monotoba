@@ -17,4 +17,4 @@ I build open-source tools for makers and developers, drawing on 40+ years of sof
 
 The most helpful feedback is a concrete use case: what you tried, your operating system and version, what happened, and what you expected. Open an issue in the relevant repository. If you would like to contribute code or documentation, check that repository's contribution guide and existing issues first.
 
-More projects are in [the repository list](https://github.com/Monotoba?tab=repositories). I also write about programming at [CodeRancher](http://www.coderancher.us).
+More projects are in [the repository list](https://github.com/Monotoba?tab=repositories). I also write about programming, hardware development, and other interesting topics at [CodeRancher](http://www.coderancher.us).
