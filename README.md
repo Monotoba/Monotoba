@@ -1,4 +1,4 @@
-# Hi, I'm Morgan (Monotoba)
+# Hi, I'm R Morgan (Monotoba)
 
 I build open-source tools for makers and developers, drawing on 40+ years of software development. My projects include desktop utilities, electronics workflows, WordPress blocks, and programming-language experiments.
 
