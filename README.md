@@ -13,8 +13,8 @@ I build open-source tools for makers and developers, drawing on 40+ years of sof
 | Manage specifications for software and hardware | [specforge](https://github.com/Monotoba/specforge) | See its README and project status before choosing a workflow. |
 | Explore a new programming language | [Aster](https://github.com/Monotoba/Aster-Lang) | Read the language overview and current implementation status. |
 
-## Use, report, contribute
+## Use, report issues, and contribute
 
-The most helpful feedback is a concrete use case: what you tried, your operating system and version, what happened, and what you expected. Open an issue in the relevant repository. If you would like to contribute code or documentation, check that repository's contribution guide and existing issues first.
+The most helpful feedback describes a concrete use case: what you tried, your operating system and application versions, what happened, and what you expected. Open an issue in the relevant repository. If you would like to contribute code or documentation, check that repository's contribution guide and existing issues first.
 
-More projects are in [the repository list](https://github.com/Monotoba?tab=repositories). I also write about programming, hardware development, and other interesting topics at [CodeRancher](http://www.coderancher.us).
+More projects are in [the repository list](https://github.com/Monotoba?tab=repositories). I also write about programming and hardware development at [CodeRancher](https://www.coderancher.us).
